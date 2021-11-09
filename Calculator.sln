@@ -7,7 +7,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator\Ca
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorLibrary", "CalculatorLibrary\CalculatorLibrary.csproj", "{74CC366F-B238-485F-9CFC-3CB05BE80BCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc.Tests", "Calc.Tests\Calc.Tests.csproj", "{48F9EC49-46A3-45EE-A845-B2A7664E0725}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calc.Tests", "Calc.Tests\Calc.Tests.csproj", "{48F9EC49-46A3-45EE-A845-B2A7664E0725}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{770D6C85-4548-4348-A349-0584F37B3F6A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{23DE6EB5-5842-4E00-BA2C-6DC33B957C49}"
+	ProjectSection(SolutionItems) = preProject
+		config.yml = config.yml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,6 +37,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{23DE6EB5-5842-4E00-BA2C-6DC33B957C49} = {770D6C85-4548-4348-A349-0584F37B3F6A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1D04A4B1-7836-4D83-983F-8235036C7925}

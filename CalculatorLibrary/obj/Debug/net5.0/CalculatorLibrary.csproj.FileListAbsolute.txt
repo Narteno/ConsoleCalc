@@ -21,3 +21,4 @@ I:\Проги\education-c#\ConsoleCalc\CalculatorLibrary\obj\Debug\net5.0\Calcul
 I:\Проги\education-c#\ConsoleCalc\CalculatorLibrary\obj\Debug\net5.0\CalculatorLibrary.dll
 I:\Проги\education-c#\ConsoleCalc\CalculatorLibrary\obj\Debug\net5.0\ref\CalculatorLibrary.dll
 I:\Проги\education-c#\ConsoleCalc\CalculatorLibrary\obj\Debug\net5.0\CalculatorLibrary.pdb
+I:\Проги\education-c#\ConsoleCalc\CalculatorLibrary\obj\Debug\net5.0\CalculatorLibrary.csproj.AssemblyReference.cache
