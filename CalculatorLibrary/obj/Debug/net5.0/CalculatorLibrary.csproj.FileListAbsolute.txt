@@ -10,3 +10,14 @@ C:\Users\goner\source\repos\Calculator\CalculatorLibrary\obj\Debug\net5.0\Calcul
 C:\Users\goner\source\repos\Calculator\CalculatorLibrary\obj\Debug\net5.0\CalculatorLibrary.dll
 C:\Users\goner\source\repos\Calculator\CalculatorLibrary\obj\Debug\net5.0\ref\CalculatorLibrary.dll
 C:\Users\goner\source\repos\Calculator\CalculatorLibrary\obj\Debug\net5.0\CalculatorLibrary.pdb
+I:\Проги\education-c#\ConsoleCalc\CalculatorLibrary\bin\Debug\net5.0\CalculatorLibrary.deps.json
+I:\Проги\education-c#\ConsoleCalc\CalculatorLibrary\bin\Debug\net5.0\CalculatorLibrary.dll
+I:\Проги\education-c#\ConsoleCalc\CalculatorLibrary\bin\Debug\net5.0\ref\CalculatorLibrary.dll
+I:\Проги\education-c#\ConsoleCalc\CalculatorLibrary\bin\Debug\net5.0\CalculatorLibrary.pdb
+I:\Проги\education-c#\ConsoleCalc\CalculatorLibrary\obj\Debug\net5.0\CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+I:\Проги\education-c#\ConsoleCalc\CalculatorLibrary\obj\Debug\net5.0\CalculatorLibrary.AssemblyInfoInputs.cache
+I:\Проги\education-c#\ConsoleCalc\CalculatorLibrary\obj\Debug\net5.0\CalculatorLibrary.AssemblyInfo.cs
+I:\Проги\education-c#\ConsoleCalc\CalculatorLibrary\obj\Debug\net5.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+I:\Проги\education-c#\ConsoleCalc\CalculatorLibrary\obj\Debug\net5.0\CalculatorLibrary.dll
+I:\Проги\education-c#\ConsoleCalc\CalculatorLibrary\obj\Debug\net5.0\ref\CalculatorLibrary.dll
+I:\Проги\education-c#\ConsoleCalc\CalculatorLibrary\obj\Debug\net5.0\CalculatorLibrary.pdb

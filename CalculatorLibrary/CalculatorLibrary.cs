@@ -43,9 +43,12 @@ namespace CalculatorProgram
                     } break;
                 default: break;
             }
-            writer.WritePropertyName("Result");
-            writer.WriteValue(result);
-            writer.WriteEndObject();
+            if (!double.IsNaN(result))
+            {
+                writer.WritePropertyName("Result");
+                writer.WriteValue(result);
+                writer.WriteEndObject();
+            }
             return result;
         }
         public void Finish()
